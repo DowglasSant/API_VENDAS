@@ -2,7 +2,7 @@
 	API de Vendas
 </h1>
 
-### Projeto de desenvolvimento de Back-end para uma Proposta de E-commerce, acompanhando o curso API Restful Javascript com Node.js, Typescript, TypeORM etc., do Jorge Aluizio, da plataforma Udemy. Explorando os conceitos de autenticação, file, relação entre tabelas/entidades, CRUD, recuperação de password, design patterns, boas práticas, entre outros...
+Projeto de desenvolvimento de Back-end para uma Proposta de E-commerce, acompanhando o curso API Restful Javascript com Node.js, Typescript, TypeORM etc., do Jorge Aluizio, da plataforma Udemy. Explorando os conceitos de autenticação, file, relação entre tabelas/entidades, CRUD, recuperação de password, design patterns, boas práticas, entre outros...
  
 ### 🛠 Utilizando:
 
